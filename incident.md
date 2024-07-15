@@ -1,5 +1,8 @@
 ## IT Incident
 
+The following table contains incidents from 2024 today; each row contains the start date, end date, problem, application affected, id, and company.
+A "IT Incident" contains one start date and one stop date.
+
 | Start Date | End Date | Problem | Application Affected| ID | Company |
 | ------ | ------ |------ | ------ | ------ |------ |
 |  July 15, 2024 1:22:52 PM EST |  July 15, 2024 1:35:52 PM EST | "Stan Bank: Remaining error budget is less than 25%"| Stan Bank Web, Stan Bank Catalog | 1 | Stan Bank
