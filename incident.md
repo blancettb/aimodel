@@ -15,26 +15,26 @@ A "IT Incident" contains one start date and one stop date.
 
 ## IT Incident 1
 
-IT Incident 1 occured on July 15, 2004 and lasted 10 minutes. The problem in IT Incident 1 was Stan Web: Remaining error budget is less than 25%. IT Incident 1 involved applications Stan Bank Catalog and Stan Bank Web. 
+IT Incident 1 occured on July 15, 2004 and lasted 10 minutes. The problem in IT Incident 1 was the following: Stan Web: Remaining error budget is less than 25%. IT Incident 1 involved applications Stan Bank Catalog and Stan Bank Web. 
 
 
 ## IT Incident 2
 
-IT Incident 2 started on July 1, 2004 and lasted 12 minutes. The problem in IT Incident 2 was Too many calls with HTTP Status Code 404. IT Inciden2 1 involved application Stan Bank Web.
+IT Incident 2 started on July 1, 2004 and lasted 12 minutes. The problem in IT Incident 2 was the following: Too many calls with HTTP Status Code 404. IT Inciden2 1 involved application Stan Bank Web.
 
 ## IT Incident 3
 
-IT Incident 3 started on April 10, 2024 and lasted 5 days and 20 minutes. The problem in IT Incident 3 was Rate of HTTP Status Code 404 (Not Found) is higher than 33%. The affected application was Stan Bank Db.
+IT Incident 3 started on April 10, 2024 and lasted 5 days and 20 minutes. The problem in IT Incident 3 was the following: Rate of HTTP Status Code 404 (Not Found) is higher than 33%. The affected application was Stan Bank Db.
 
 ## IT Incident 4 
-IT Incident 4 started on April 10, 2024 and lasted 1 days and 20 minutes. The problem in IT Incident 4 wasCalls are slower than usual. The affected application was Stan Bank Web.
+IT Incident 4 started on April 10, 2024 and lasted 1 days and 20 minutes. The problem in IT Incident 4 was the following: Calls are slower than usual. The affected application was Stan Bank Web.
 
 
 ## IT Incident 5 
-It Incident 5 started on Feb 1, 2024, and lasted 2 minutes. The problem in IT Incident 5 was Erroneous call rate for Stanbank is high. The affected application was Stan Bank Web.
+It Incident 5 started on Feb 1, 2024, and lasted 2 minutes. The problem in IT Incident 5 was the following:  Erroneous call rate for Stanbank is high. The affected application was Stan Bank Web.
 
 
 ## IT Incident 6 
-IT Incident 6 started on April 1, 2024 and lasted 4 minutes. The problem in IT Incident 6 was Rate of HTTP Status Code 404 (Not Found) is higher than 53%. The affected application was Stan Bank Db.
+IT Incident 6 started on April 1, 2024 and lasted 4 minutes. The problem in IT Incident 6 was the following: Rate of HTTP Status Code 404 (Not Found) is higher than 53%. The affected application was Stan Bank Db.
 
 Stan Bank has 2 applications Stan Bank Web and Stan Bank Db
